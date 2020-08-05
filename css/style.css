@@ -748,7 +748,7 @@ h6 {
   height: 203px;
   position: relative;
   width: 100%;
-  background-image: url("../img/main/section1/bg_04.png");
+  background-image: url("./img/main/section1/bg_04.png");
   background-size: 100%;
   color: black;
   padding: 34px 0 20px 0;
@@ -1879,4 +1879,4 @@ body {
   }
 }
 
-.webp .col2-row__text, .webp .col2-row__text_2{ background-image: url(../img/main/section1/bg_04.webp); }
+.webp .col2-row__text, .webp .col2-row__text_2{ background-image: url(./img/main/section1/bg_04.webp); }
