@@ -20,8 +20,8 @@ $(document).ready(function(){
         slidesToScroll: 1,
         dots: false,
         appendArrows: $('.slider-arrow'),
-        prevArrow: '<button id="prev" type="button" class="slick-prev slick-arrow"><img src="../img/main/slider/left-arrow.png"></img></button>',
-        nextArrow: '<button id="next" type="button" class="slick-next slick-arrow"><img src="../img/main/slider/right-arrow.png"></img></button>',
+        prevArrow: '<button id="prev" type="button" class="slick-prev slick-arrow"><img src="./img/main/slider/left-arrow.png"></img></button>',
+        nextArrow: '<button id="next" type="button" class="slick-next slick-arrow"><img src="./img/main/slider/right-arrow.png"></img></button>',
         responsive: [
             {
               breakpoint: 1232,
