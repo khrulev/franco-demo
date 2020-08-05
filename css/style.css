@@ -353,9 +353,9 @@ h6 {
 }
 
 .menu__body.active {
-  -webkit-transform: translateY(100%);
-      -ms-transform: translateY(100%);
-          transform: translateY(100%);
+  -webkit-transform: translateY(150%);
+      -ms-transform: translateY(150%);
+          transform: translateY(150%);
 }
 
 .sticky {
@@ -1642,7 +1642,7 @@ body {
 
   .menu__body {
     position: fixed;
-    top: -100%;
+    top: -150%;
     left: 0;
     width: 100%;
     height: 100vh;
